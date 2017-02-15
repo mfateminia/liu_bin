@@ -1,0 +1,373 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Liu's Group</title>
+
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+
+<script type = "text/javascript" src = "script/javascript.js">
+</script>
+
+</head>
+
+<body>
+<body>
+<div id="header">
+	<img src="images/logo.jpg">
+	<div id="title">Liu's Group</div>
+</div>
+<div id = "menuWrapper">
+	<ul id = "menu">
+		<li><a href="index.php">HOME</a></li>
+		<li><a href="biography.php">BIOGRAPHY</a></li>
+		<li><a href="research.php">RESEARCH</a></li>
+		<li  class="current"><a href="people.php">PEOPLE</a></li>
+		<li><a href="publication.php">PUBLICATION</a></li>
+		<li><a href="gallery.php">PHOTO GALLERY</a></li>
+		<li><a href="contact.php">CONTACT US</a></li>
+	 </ul>
+</div>
+
+<div id="content">
+
+<div id = "people">
+
+
+
+
+
+
+
+
+<h1>Students</h1>
+
+
+<table id="students">
+ <!--------------------------------------------FIRST ROW PIC-->
+ <tr>
+ 
+ <td><img src="images/CAI_Xiaolei.jpg" alt="cai_xiaolei" height="200" width="150"></td>
+ <td><img src="images/FATEMINIA_SMAli.jpg" alt="FATEMINIA_SMAli" height="200" width="150"></td>
+ <td><img src="images/XU_Shidang.jpg" alt="XU_Shidang" height="200" width="150"></td>
+ <td><img src="images/GUO_Bing.jpg" alt="Smiley face" height="200" width="150"></td>
+ <td><img src="images/MANGHNANI_Purnima.jpg" alt="MANGHNANI_Purnima" height="200" width="150"></td>
+ <td><img src="images/HUANG_Tzu-Rung.jpg" alt="HUANG_Tzu-Rung" height="200" width="150"></td>
+ </tr>
+  
+  <!--------------------------------------------FIRST ROW DATA-->
+  <tr>
+ 
+ <td>
+   <p>PhD Student</p>
+   <p>CAI, Xiaolei</p>
+   <p>a0113468@nus.edu.sg</p>
+   <p>&nbsp;</p>
+ </td>
+ <td><p>PhD Student</p>
+   <p>FATEMINIA, S.M. Ali</p>
+   <p>fateminia@u.nus.edu</p>
+   <p>&nbsp; </p></td>
+ <td><p>PhD Student</p>
+   <p>XU, Shidang</p>
+   <p>chexush@nus.edu.sg</p>
+   <p>&nbsp; </p></td>
+ <td><p>PhD Student</p>
+   <p>GUO, Bing</p>
+   <p>a0122138@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+ <td><p>PhD Student</p>
+   <p>MANGHNANI, Purnima</p>
+   <p>a0123582@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+ <td><p>PhD Student</p>
+   <p>HUANG, Tzu-Rung</p>
+   <p>e0013571@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+  </tr>
+ 
+  <!--------------------------------------------SECOND ROW PIC-->
+ <tr>
+ 	<td><img src="images/LI_Xueqi.jpg" alt="li_xueqi" height="200" width="150"></td>
+ 
+    <td><img src="images/PAN_Yutong.jpg" alt="pan_yutong" height="200" width="150"></td>
+    
+   <td><img src="images/TAVAKKOLI_Mohammad.jpg" alt="tavakkoli_Yaraki_mohammad" height="200" width="150"></td>
+   
+   <td><img src="images/MIDHA_Eshu.jpg" alt="MIDHA_Eshu" height="200" width="150"></td>
+   
+   <td><img src="images/WANG_Yuanbo.jpg" alt="WANG_Yuanbo" height="200" width="150"></td>
+
+  <td><img src="images/QI_Guobin.jpg" alt="WANG_Yuanbo" height="200" width="150"></td>
+  <td>&nbsp;</td>
+ 
+  </tr>
+  
+  <!--------------------------------------------SECOND ROW DATA-->
+ <tr>
+ 
+    <td><p>PhD Student</p>
+   <p>LI, Xueqi</p>
+   <p>e0001901@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+   
+   <td><p>PhD Student</p>
+   <p>PAN, Yutong</p>
+   <p>yutongpan@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+   
+    <td><p>PhD Student</p>
+   <p>TAVAKKOLI, Mohammad</p>
+   <p>e0010805@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+
+  <td><p>PhD Student</p>
+  <p>MIDDHA, Eshu</p>
+  <p>e0013584@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+ 
+   <td><p>PhD Student</p>
+  <p>WANG, Yuanbo</p>
+  <p>e0146311@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+   
+      <td><p>PhD Student</p>
+  <p>QI, Guobin</p>
+  <p>e0154198@u.nus.edu</p>
+   <p>&nbsp;</p></td>
+   
+  </tr>
+ 
+  <!--------------------------------------------THIRD ROW PIC--> 
+ <tr>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+	 <td></td>
+ </tr>
+ 
+  <!--------------------------------------------THIRD ROW DATA--> 
+ <tr>
+  <td>
+
+ </td>
+ 
+ <td>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p>&nbsp; </p>
+ </td>
+ 
+ <td>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p>&nbsp; </p>
+ </td>
+ 
+ <td>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p>&nbsp;</p>
+ </td>
+ 
+ <td>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p>&nbsp;</p>
+ </td>
+ 
+ <td>
+   <p></p>
+   <p></p>
+   <p></p>
+   <p>&nbsp;</p>
+   </td>
+   
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  </table>
+  
+    <h1>Staff</h1>
+  
+  <table id="staff">
+  
+    <!--------------------------------------------FIRST ROW IMAGES-->
+ <tr>
+   <td><img src="images/CHENG_Xiamin.jpg" alt="CHENG_Xiamin" height="200" width="150"></td>
+   <td><img src="images/DUAN_Yukun.jpg" alt="DUAN_Yukun" height="200" width="150"></td>
+   <td><img src="images/ZHANG_Chongjing.jpg" alt="ZHANG_Chongjing" height="200" width="150"></td>
+   <td><img src="images/LIU_Jie.jpg" alt="LIU_Jie" height="200" width="150"></td>
+   <td><img src="images/FENG_Guangxue.jpg" alt="FENG_Guangxue" height="200" width="150"></td>
+   <td><img src="images/YUAN_Youyong.jpg" alt="YUAN_Youyong" height="200" width="150"></td>
+   </tr>
+  
+  
+  <br/>
+  
+	<!--------------------------------------------FIRST ROW DATA-->
+  <tr>
+    <td><p>Research Fellow</p>
+      <p>CHENG, Xiamin</p>
+      <p>ericx@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Engineer</p>
+      <p>DUAN, Yukun</p>
+      <p>duanyukun@u.nus.edu</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Associate</p>
+      <p>ZHANG, Chongjing</p>
+      <p>chezhch@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Fellow</p>
+      <p>LIU, Jie</p>
+      <p>cheliji@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Assistant</p>
+      <p>FENG, Guangxue</p>
+      <p>chefgg@nus.edu.sg</p>
+      <p>&nbsp;</p></td>     
+    <td><p>Research Fellow</p>
+      <p>YUAN, Youyong</p>
+      <p>cheyuy@nus.edu.sg</p>
+      <p>&nbsp;</p></td>  
+  </tr>
+	
+    <!--------------------------------------------THIRD ROW IMAGES-->
+  <tr> 
+    <td><img src="images/HU_Fang.jpg" alt="HU_Fang" height="200" width="150"></td>
+    <td><img src="images/WU_Wenbo.jpg" alt="WU_Wenbo" height="200" width="150"></td>
+    <td><img src="images/DUO_Mao.jpg" alt="DUO_Mao" height="200" width="150"></td>
+    <td><img src="images/CHEN_Chengjian.jpg" alt="CHEN_Chengjian" height="200" width="150"></td>
+    <td><img src="images/DAI_Chunhui.jpg" alt="DAI_Chunhui" height="200" width="150"></td>
+    <td><img src="images/WANG_Shaowei.jpg" alt="WANG_Shaowei" height="200" width="150"></td>
+  </tr>
+  
+  	<!--------------------------------------------SECOND ROW DATA-->
+  <tr>
+    <td><p>Research Fellow</p>
+      <p>HU, Fang</p>
+      <p>chehf@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Fellow</p>
+      <p>WU, Wenbo</p>
+      <p>msewuw@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Fellow</p>
+      <p>MAO, Duo</p>
+      <p>chemaod@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Fellow</p>
+      <p>CHEN, Chengjian</p>
+      <p>chechcj@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Fellow</p>
+      <p>DAI, Chunhui</p>
+      <p>chedc@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+    <td><p>Research Fellow</p>
+      <p>WANG, Shaowei</p>
+      <p>chewsw@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+  </tr>
+ 
+    <!--------------------------------------------THIRD ROW IMAGES--> 
+  <tr>
+    <td><img src="images/CHEN_Huan.jpg" alt="CHEN_Huan" height="200" width="150"></td>
+    <td><img src="images/ZHANG_Ruoyu.jpg" alt="ZHANG_Ruoyu" height="200" width="150"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+	<!--------------------------------------------THIRD ROW DATA-->
+  <tr>
+      <td><p>Research Assistant</p>
+      <p>CHEN, Huan</p>
+      <p>chechhu@nus.edu.sg</p>
+      <p>&nbsp;</p></td>
+	  
+	  <td><p>Research Assistant</p>
+      <p>ZHANG, Ruoyu</p>
+      <p>chezhru@nus.edu.sg</p>
+      <p>&nbsp;</p></td>	  
+  </tr>
+  
+  </table>
+
+    <h1>Alumni</h1>
+
+  <table id="alumni">
+  <tr>
+  <td>
+  <span>Dr.Geng Junlong</span><br/>Scientist I, IMRE, Singapore
+  </td>
+  <td>
+  <span>Dr. Wang Yusong</span><br/>Postdoctoral Fellow, Nanyang Technology University, Singapore
+  </td>
+    <td>
+  <span>Dr. Shudipto Konika Dishari</span><br/>Postdoctoral Fellow, Pennsylvania state university, USA
+  </td>
+    <td>
+  <span>Dr. Zhang Yong</span><br/>Postdoctoral Fellow, University of Washington, USA
+  </td>
+  </tr>
+  
+  <!--Second row of ALUMNI-->
+    <tr>
+  <td>
+  <span>Dr.Fang Zhen</span><br/>Postdoctoral Fellow, University of Florida, USA
+  </td>
+  <td>
+  <span>Dr. Zhu Rui</span><br/>Postdoctoral Fellow, University of California, Los Angeles, USA
+  </td>
+    <td>
+  <span>Dr. Wang Jing</span><br/>Postdoctoral Fellow, McMaster University, Canada
+  </td>
+    <td>
+  <span>Dr. Wang Chun</span><br/>Singapore
+  </td>
+  </tr>
+  
+    <!--third row of ALUMNI-->
+    <tr>
+  <td>
+  <span>Dr.Zhu Qing</span><br/>Professor, Zhejiang University of Technology, China
+  </td>
+  <td>
+  <span>Dr. Shi Jianbing</span><br/>Associate Professor, Beijing Institute of Technology
+  </td>
+    <td>
+  <span>Dr. Wang Yifan</span><br/>Agri-Food & Veterinary Authority, Singapore
+  </td>
+    <td>
+  <span>Dr. Wang Lihua</span><br/>Associate Professor, Institute of Applied Physics, Chinese Academic of Sciences, China
+  </td>
+  </tr>
+  </table>
+
+
+</div>
+</div>
+
+</body>
+
+</html>

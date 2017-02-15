@@ -1,0 +1,68 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Liu's Group</title>
+
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+<script type = "text/javascript" src = "script/jquery-1.11.2.min.js"></script>
+<script type = "text/javascript" src = "script/javascript.js">
+
+
+</script>
+
+</head>
+
+<body>
+<div id="header">
+	<img src="images/logo.jpg">
+	<div id="title">Liu's Group</div>
+</div>
+<div id = "menuWrapper">
+	<ul id = "menu">
+		<li><a href="index.php">HOME</a></li>
+		<li><a href="biography.php">BIOGRAPHY</a></li>
+		<li  class="current"><a href="research.php">RESEARCH</a></li>
+		<li><a href="people.php">PEOPLE</a></li>
+		<li><a href="publication.php">PUBLICATION</a></li>
+		<li><a href="gallery.php">PHOTO GALLERY</a></li>
+		<li><a href="contact.php">CONTACT US</a></li>
+	 </ul>
+</div>
+
+<div id="content">
+<h1>Research Interests</h1>
+
+<div id = "research">
+
+<p>The overall research goal is to design, synthesize and characterize new materials with an emphasis on their applications in nano-biotechnology and clean energy. We are creating an active program of research which bridges areas of materials science, polymer chemistry, nano-science, bio-technology and device fabrication. Our current research is focused on developing functional conjugated polymers and seeking their applications in sensors and solar cells. Now we have three research directions:</p>
+
+<li id="firstLine">Bioprobes based on fluorogens with aggregation-induced emission (AIE) characteristics</li>
+
+<p id="firstPara">Unlike conventional fluorophores which usually exhibit quenched emission at high concentration or in aggregate state, fluorogens with aggregation-induced emission (AIE) characteristics show exactly the opposite phenomenon. Typical AIE fluorogens are characterized by their propeller-shaped rotorlike structures, which undergo low-frequency torsional motions as isolated molecules and emit very weakly in solutions. Their aggregates show strong fluorescence mainly due to the restriction of their intramolecular rotations in the aggregate state. This fascinating attribute of AIE fluorogens provides a new platform for the development of fluorescence light-up molecules and photostable nanoaggregates for specific analyte detection and imaging.
+
+Our research focuses on two approaches to utilize AIE effect in the development of fluorescent bioprobes. On the one hand, these fluorogens can be engineered to show extremely weak fluorescence in aqueous media by endowing them with water solubility, with their fluorescence being turned on upon interacting with target analytes. The very low background of AIEgen light-up bioprobes renders them especially attractive in continuous monitoring of biological processes without the need of repeated washing steps. AIE fluorescence light-up probes have been demonstrated for specific molecular detection, targeted cell imaging, controlled and selective drug delivery, on-demand therapy, enzyme activity assay and bacteria inhibition.
+
+On the other hand, the exceptional brightness achieved for AIE fluorogens in aggregated form has enabled the development of nanoparticle bioprobes.The AIE dot-based bioprobes with different formulations and surface functionalities show advanced features over quantum dots and small molecule dyes, such as large absorptivity, high luminosity, excellent biocompatibility, free of random blinking, and strong photobleaching resistance. These features enable cancer cell detection, long term cell tracing, and tumor imaging in a noninvasive and high contrast manner. 
+
+Recent research has significantly expanded the scope of biological applications of AIE fluorogens and offers new strategies to fluorescent bioprobe design. We anticipate that future development on AIE bioprobes will combine one- or multiphoton fluorescence with other modalities (e.g., magnetic resonance imaging) or functionalities (e.g. therapy) to fully demonstrate their potential as a new generation of theranostic reagent. In parallel, the advances in molecular biology will provide more specific bioreceptors, which will enable the development of next generation AIE bioprobes with high selectivity and sensitivity for molecular sensing and imaging.
+</p> 
+
+<li id="secondLine">Conjugated Polymers for Bioimaging and Cellular Detection</li>
+<p id="secondPara">Conjugated Polymers (CPs) represent macromolecular fluorophores with highly de-localized π-conjugated backbones. This unique backbone structures bestow CPs with strong light-harvesting and light-amplification properties, highly promising for fluorescence imaging and other related biological applications. However, the lack of sufficient water solubility have greatly hampered the potentials. Besides design and synthesis of novel CPs with multi-functions, our group have consistently put great efforts on the development of new strategies to render CPs with excellent and stable water-dispersbility.  
+Our group’s research has been focused on the development of CPs with red-shifted emission, especially in near infrared (NIR) region with high fluorescence quantum yields. Various CPs with colours ranging from blue to green, yellow, red and NIR have been developed by our group. In addition, the pathways of electrons travel back to ground state after excitation can be modified through precise design of the backbone structures, which could render CPs with more properties. We have reported CPs with great reactive oxygen species (ROS) generation under light irradiation for photodynamic therapy (PDT), large NIR absorption and efficient light-to-heat conversion ability for photoacoustic (PA) imaging and photothermal therapy (PTT).
+Meanwhile, our efforts have been placed on developing new strategies to render CPs with good water dispersibility. One way is to introduce hydrophilic or ionic side chains to CPs through chemical modification to render them good solubility in aqueous solution. Another more simple and general ways is the fabrication of CP nanoparticles (NPs) through polymerization, emulsion or nano-precipitation. We have successfully encapsulated CPs into several different types of NPs for bioimaging, including BSA cross-linking NPs, lipid-PEG NPs, PLGA-PEGN NPs, and Silica NPs. Moreover, the sizes of these CP NP can be tuned from 5 nm to 10 µm. The surface of CP NPs is also capable of modification with antibodies, aptamers, and targeting ligands to recognize specific cells or bio-species for imaging, and therapy applications. 
+</p> 
+ 
+<li id="thirdLine">Development of Dye-sensitized and Perovskite Solar Cells</li>
+<p id="thirdPara">Our group is a pioneer in the development of highly efficient solid-state dye-sensitized solar cells (DSSC) using polymeric hole transporting materials (HTM) such as P3HT and PEDOT. We are the first group to report a working flexible solid-state DSSCs. Apart from our pioneering work in the field of DSSCs, we have interests in the development of the next generation of perovskite solar cells. We are the first to report a perovskite device that functions without a HTM. Currently, the solar cell team is working on novel nanostructures and/or unique techniques for the deposition of perovskite thin films.</p> 
+</div>
+</div>
+
+</body>
+
+</html>

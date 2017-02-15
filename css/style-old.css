@@ -1,0 +1,285 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin-left: 5%;
+	margin-right: 5%;
+	font-family: Arial;
+	color: #00008f;
+	font-size: 16px;
+}
+
+p{
+color: #000;
+line-height: 180%;
+}
+
+li{
+color: #000;
+}
+
+#header{
+	color:#00008f;
+	font-weight:bolder;
+	text-align:right;	
+}
+
+#header span{
+	font-size: 64px;
+	position: absolute;
+	top:0;
+	right:0;
+	padding-top:3%;
+	padding-right:6%;
+}
+
+#header{
+	height: 70px;
+}	
+
+#header img{
+	height: 90px;
+	width: 180px;
+	float: left;
+}	
+
+/* Menu */
+#sse3
+{
+    background-color: #00008f;
+    height: 50px;
+    clear:both;
+    text-align:center;/*For IE5 or IE No DOCTYPE*/
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+        
+#sses3
+{
+    margin: 0 auto;/*If you don't want the menu center aligned, remove this line and above text-align:center*/
+    border-left:solid 1px #0AE;
+}
+        
+#sses3 ul
+{
+    list-style-type: none;
+    float:left;
+    padding:0;
+	margin:0;
+}
+        
+#sses3 li
+{
+    background: url(images/mb3_2_1.png);
+    line-height: 50px;
+    position: relative;
+    overflow: hidden;/*used to hide slip*/
+    z-index: 0;
+    float:left;
+    list-style-type: none;
+    padding:0;
+	margin:0;
+    border-right:solid 1px #ffffff;
+}
+        
+#sses3 li.current, #sses3 .slip
+{
+    background: #000060;
+}
+        
+#sses3 li a
+{
+    text-align: center;
+    text-decoration: none;
+    padding: 0 30px;/*30px is used to adjust the distance between each menu item. Now the distance is 30+30=60px.*/
+    /*width: 100px;*/ /*If you prefer a fixed width, uncomment this line and comment out above line*/
+    color: white;
+    display: block;
+    z-index: 2;
+    white-space:nowrap;
+}
+        
+#sses3 li.current a
+{
+    color: white;
+}
+        
+#sses3 .slip
+{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+/*home caption*/
+div.wrapper{
+		float:right;
+		margin-left:2%;
+	position:relative; /* important(so we can absolutely position the description div */
+}
+div.description{
+	position:absolute; /* absolute position (so we can position it where we want)*/
+	bottom:0px; /* position will be on bottom */
+	left:0px;
+	width:100%;
+	/* styling bellow */
+	background-color:#ffffff;
+	color:#00008f;
+	font-weight:bolder;
+	opacity:0.5; /* transparency */
+	filter:alpha(opacity=60); /* IE transparency */
+}
+p.description_content{
+	padding:10px;
+	margin:0px;
+}
+
+.wrapper img{
+	width:800px;
+	height:350px;
+	padding-top:1%;
+	border-top-right-radius:8px;
+	border-top-left-radius:190px;
+}
+
+/*news*/
+#news{
+	padding-top:2%;
+padding-left:1%;
+text-align:justify;	
+}
+
+#news li{
+	padding-top:1%;
+}
+
+/*research*/
+#research{
+	padding-top:2%;
+padding-left:1%;
+text-align:justify;	
+}
+
+#research li{
+	padding-top:1%;
+	font-weight:bolder;
+  
+}
+
+/*biography*/
+
+#biography{
+	padding-top:2%;
+padding-left:1%;
+text-align:justify;	
+}
+
+#biography img{
+	float:right;
+	width:300px;
+	height:350px;
+	border-radius:8px;
+	padding-left:30px;
+	padding-bottom:30px;
+}
+
+#biography li{
+	padding-right:2%;
+	padding-top:1%;
+}
+
+#biography h2{
+	margin-top:30px;
+	margin-bottom:0;
+}
+
+#publication{
+	padding-top:2%;
+padding-left:1%;
+text-align:justify;	
+}
+
+#publication p{
+	font-weight:bolder;
+}
+
+#publication table{
+width:100%;
+table-layout:fixed;
+word-wrap:break-word;
+}
+
+
+#pubColumn{
+	width:70%;
+}
+.coverColumn{
+	vertical-align:top;
+	padding-left:4%;
+	padding-top:6%;
+}
+.coverColumn img{
+	width:120px;
+	height:160px;
+}
+
+.coverColumn p{
+	text-align:left;
+	font-weight:bolder;
+}
+
+/*people*/
+
+#people img{
+	float:left;
+	border-radius:8px;
+}
+
+#people table{
+	width:100%;
+	alignment-adjust:auto;	
+}
+
+#people td{
+	width:16.6%;
+}
+
+#people p{
+	margin:0;
+}
+
+#people span{
+	font-weight: bolder;
+}
+
+#people #alumni td{
+	height:100px;
+}
+
+
+/*publication*/
+span{
+color: #00008f;
+}
+
+/*contact*/
+
+#contact span{
+	font-weight:bolder;
+}
+
+/*gallery*/
+
+#images{
+	padding-top:50px;
+	text-align:center;
+}
+
+#images img{
+	border-radius:8px;
+	align-content:center;
+	width:600px;
+	height:350px;
+	padding-top:10px;
+}
